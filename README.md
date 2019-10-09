@@ -1,6 +1,7 @@
 # Error while obfuscating assembly targeting .NET Standard 2.0
 
 Error screenshot: 
+
 ![error.png](error.png)
 
 To reproduce:
